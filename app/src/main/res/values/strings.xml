@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tugas1AKB</string>
+    <string name="logo">Gambar Logo</string>
+    <string name="text_awal">Monitory Membantu Anda
+        Mengontrol HP Anak</string>
+    <string name="mulai">Mulai</string>
+    <string name="judul_activity_login">Kode Keluarga</string>
+    <string name="deskripsi_judul_activity_login">Ketikkan kode keluarga yang Ayah Bunda miliki disini</string>
+    <string name="syarat_ketentuan">Dengan menekan tombol masuk berarti Anda menyetujui <b>Ketentuan Pengguna</b> dan <b>Kebijakan Data</b> kami</string>
+    <string name="masuk">Masuk</string>
+    <string name="tidak_ada_kode">Belum punya kode keluarga?</string>
+    <string name="beli_kode">Beli Kode Keluarga Disini</string>
+    <string name="nama_panggilan">Nama Panggilan Kamu</string>
+    <string name="hint_nama">Contoh : Budi</string>
+    <string name="kode_keluarga">A1B2C3</string>
+    <string name="umur">Umur Kamu</string>
+    <string name="hint_umur">Contoh : 12</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="oke">Oke</string>
+</resources>
